@@ -120,7 +120,7 @@ If you use this code, please cite the accompanying paper:
 @article{AngularMuown2026HueblerLion,
   title={Muown Implicitly Performs Angular Step-size Decay},
   author={H{\"u}bler, Florian and Lion, Kai and Orvieto, Antonio and He, Niao},
-  journal={arXiv preprint arXiv:TODO},
+  journal={arXiv preprint arXiv:2606.23637},
   year={2026}
 }
 ~~~
